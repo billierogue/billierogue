@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @billierogue
 - 👀 I’m interested in ...heavy metal and spaghetti 
-- 🌱 I’m currently learning ...graphic design..so i don't know why the hell i'm coding
-- 💞️ I’m looking to collaborate on ...nothing. i just wanna pass this friggin class
+- 🌱 I’m currently learning ...graphic design..
+- 💞️ I’m looking to collaborate on ...nothing. i just wanna pass this class
 - 📫 How to reach me ...DON'T
 
 <!---
